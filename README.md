@@ -1,4 +1,4 @@
-# AS-OpenAPIIntegration-CSharp
+# Integrating the OpenAI API into a C# Project with Visual Studio
 
 Do you want to harness the capabilities of artificial intelligence to generate human-like text for your applications? The OpenAI API offers a powerful solution for such tasks, and in this guide, we'll take you through the steps of integrating the OpenAI API into a C# project using Visual Studio Community Edition.
 
